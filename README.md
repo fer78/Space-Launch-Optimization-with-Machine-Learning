@@ -18,6 +18,10 @@ El proyecto incluye:
 * Entrenamiento y evaluación de modelos de clasificación y regresión.
 * Visualizaciones para comprender los factores que influyen en la reutilización y el costo.
 
+## Escenario y Vision General del Proyecto
+
+https://drive.google.com/file/d/1ABP1kBwXprUDEeodm4zYDBGXw8uesbE7/view?usp=drive_link
+
 ## Herramientas
-- El proyecto se realiza en Google Colab.
+- El proyecto se realiza en Cuadernos Jupiter en Visual Studio Code.
 
